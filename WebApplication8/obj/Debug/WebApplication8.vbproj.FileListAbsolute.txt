@@ -1,0 +1,8 @@
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\bin\WebApplication8.dll
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\bin\WebApplication8.pdb
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\bin\WebApplication8.xml
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\obj\Debug\WebApplication8.Resources.resources
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\obj\Debug\WebApplication8.vbproj.GenerateResource.Cache
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\obj\Debug\WebApplication8.dll
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\obj\Debug\WebApplication8.xml
+C:\Users\Agus Budi Prastono\Videos\Asp\WebApplication8\WebApplication8\obj\Debug\WebApplication8.pdb
